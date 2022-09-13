@@ -1,6 +1,6 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "Default preset for use with Jellyfin's repos",
+  "description": "Default preset for use with Veso's repos",
   "extends": [
     "config:base",
     ":disableDependencyDashboard",

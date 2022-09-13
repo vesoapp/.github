@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
-  "description": "Default preset for use with Jellyfin's Node.js repos",
-  "extends": ["github>jellyfin/.github//renovate-presets/default"],
+  "description": "Default preset for use with Veso's Node.js repos",
+  "extends": ["github>vesoapp/.github//renovate-presets/default"],
   "npm": {
     "stabilityDays": 7
   },
